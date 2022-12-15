@@ -34,7 +34,7 @@
     }
   ],
   "main": "./lib",
-  "dependencies": {
+  "peerDependencies": {
     "passport-oauth2": "1.x.x"
   },
   "devDependencies": {
